@@ -6,7 +6,7 @@ HostEONS是一家在英国伦敦成立的网络托管和云计算服务供应商
 ![image](https://github.com/adonicwd/HostEONS/assets/157679094/9004e2ce-c764-4a67-9737-7cdbc02d0638)
 
 ## HostEONS 官网地址
-HostEONS 官网:[www.hosteons.com(https://my.hosteons.com/aff.php?aff=2259)
+HostEONS 官网:[www.hosteons.com](https://my.hosteons.com/aff.php?aff=2259)
 
 ## HostEONS 优惠码
 - **圣诞节和新年优惠**：请通过优惠链接直接访问促销页面。
